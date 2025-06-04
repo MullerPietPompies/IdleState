@@ -1,0 +1,7462 @@
+# Blender 4.4.3 MTL File: 'hallWStairs.blend'
+# www.blender.org
+
+newmtl Black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.040
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.042
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.043
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.046
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.048
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.049
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.052
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.054
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.055
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.056
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.057
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.058
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.059
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.061
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.064
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.065
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.066
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.069
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.071
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.073
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.074
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.075
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.076
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.077
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.081
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.082
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.083
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.084
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.085
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.086
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.087
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.088
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.089
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.090
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.091
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.092
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.093
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.094
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.095
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.096
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.097
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.098
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.099
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.100
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.101
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.102
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.103
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.104
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.105
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.106
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.107
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.108
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.109
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.110
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.111
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.112
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.113
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.114
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.115
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.116
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.117
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.118
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.119
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.120
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.121
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.122
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.123
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.124
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.125
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Black.126
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/BlackBackGround.jpeg
+
+newmtl Carpet
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.040
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.042
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.043
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.046
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.048
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.049
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.052
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.054
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.055
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.056
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.057
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.058
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.059
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.061
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.064
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.065
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.066
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.069
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.071
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.073
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.074
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.075
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.076
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.077
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.081
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.082
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.083
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.084
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.085
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.086
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.087
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.088
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.089
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.090
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.091
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.092
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.093
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.094
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.095
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.096
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.097
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.098
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.099
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.100
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.101
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.102
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.103
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.104
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.105
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.106
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.107
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.108
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.109
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.110
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.111
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.112
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.113
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.114
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.115
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.116
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.117
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.118
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.119
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.120
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.121
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.122
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl Carpet.123
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/FloorCarpetLight.jpg
+
+newmtl DarkerGrey
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.040
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.042
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.043
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.046
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.048
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.049
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.052
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.054
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.055
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.056
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.057
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.058
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.059
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.061
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.064
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.065
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.066
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.069
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.071
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.073
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.074
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.075
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.076
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.077
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.081
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.082
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.083
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.084
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.085
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.086
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.087
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.088
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.089
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.090
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.091
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.092
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.093
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.094
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.095
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.096
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.097
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.098
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.099
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.100
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.101
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.102
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.103
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.104
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.105
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.106
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.107
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.108
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.109
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.110
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.111
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.112
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.113
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.114
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.115
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.116
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.117
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.118
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.119
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.120
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.121
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.122
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl DarkerGrey.123
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Glass
+Ns 902.500000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.300000
+illum 9
+
+newmtl Glass.015
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.017
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.018
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.019
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.020
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.021
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.022
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.023
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.024
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.025
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.437500
+illum 9
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/University_of_Pretoria_Coat_of_Arms.png
+
+newmtl Glass.026
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.027
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.028
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.029
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Glass.030
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.180000
+illum 9
+
+newmtl Grey
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Light-Grey.jpg
+
+newmtl Grey.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.040
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.042
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.043
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.046
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.048
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.049
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.052
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.054
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.055
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.056
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.057
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.058
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.059
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.061
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.064
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.065
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.066
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.069
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.071
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.073
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.074
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.075
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.076
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.077
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.081
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.082
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.083
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.084
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.085
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.086
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.087
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.088
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.089
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.090
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.091
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.092
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.093
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.094
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.095
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.096
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.097
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.098
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.099
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.100
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.101
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.102
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.103
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.104
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.105
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.106
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.107
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.108
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.109
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.110
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.111
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.112
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.113
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.114
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.115
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.116
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.117
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.118
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.119
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.120
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.121
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.122
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.123
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.124
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Grey.125
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Castle-Grey.jpg
+
+newmtl Silver
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.040
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.042
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.043
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.046
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.048
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.049
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.052
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.054
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.055
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.056
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.057
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.058
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.059
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.061
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.064
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.065
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.066
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.069
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.071
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.073
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.074
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.075
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.076
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.077
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.081
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.082
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.083
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.084
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.085
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.086
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.087
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.088
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.089
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.090
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.091
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.092
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.093
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.094
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.095
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.096
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.097
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.098
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.099
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.100
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.101
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.102
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.103
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.104
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.105
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.106
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.107
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.108
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.109
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.110
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.111
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.112
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.113
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.114
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.115
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.116
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.117
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.118
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.119
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.120
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.121
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.122
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.123
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.124
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.125
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.126
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.127
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.128
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.129
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.130
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.131
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.132
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.133
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.134
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.135
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.136
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.137
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.138
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.139
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.140
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.141
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.142
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.143
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.144
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.145
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl Silver.146
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Silver.jpg
+
+newmtl TempGlass
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.002
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.007
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.008
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.009
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.010
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.011
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.012
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.013
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.014
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.015
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.016
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.017
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.018
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.019
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.020
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.021
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.022
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.023
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.024
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.025
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.026
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.027
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.028
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.029
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.030
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.031
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.032
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.033
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.034
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.035
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.036
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.037
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.038
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.039
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.040
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.041
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.042
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.043
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.044
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.045
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.046
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.047
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.048
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.049
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.050
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.051
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.052
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.053
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.054
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.055
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.056
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.057
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.058
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.059
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.060
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.061
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.062
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.063
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.064
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.065
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.066
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.067
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.068
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.069
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.070
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.071
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.072
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.073
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.074
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.075
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.076
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.077
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.078
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.079
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.080
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.081
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.082
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.083
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.084
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.085
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.086
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.087
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.088
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.089
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.090
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.091
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.092
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.093
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.094
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.095
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.096
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.097
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.098
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.099
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.100
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.101
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.102
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.103
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.104
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.105
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.106
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.107
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.108
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.109
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.110
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.111
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.112
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.113
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.114
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.115
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.116
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.117
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.118
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.119
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.120
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.121
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.122
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TempGlass.123
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tiles
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/arman/OneDrive/Documents/GitHub/COS_344_HWA/Models/Textures/Tiles.jpg
