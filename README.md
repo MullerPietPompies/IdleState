@@ -1,4 +1,4 @@
-# Shader State
+# Idle State
 
 An openGL experiment
 
