@@ -1,4 +1,6 @@
-# University Of Pretoria IT Lounge Render
+# Shader State
+
+An openGL experiment
 
 ---
 
