@@ -24,7 +24,9 @@ I chose to use this project because it gave me the same uneasy feeling, I loved,
 
 ---
 
-![[./media/itLounge1.mp4]]
+https://github.com/user-attachments/assets/9ebb5f3e-1303-49b3-a3a5-90ffc9405efd
+
+---
 
 ## Building and Runnung the project
 
