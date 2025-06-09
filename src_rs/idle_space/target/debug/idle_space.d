@@ -1,0 +1,1 @@
+/home/muller/Documents/personalProjects/CPP/computerGraphics/itLoungeRender/src_rs/idle_space/target/debug/idle_space: /home/muller/Documents/personalProjects/CPP/computerGraphics/itLoungeRender/src_rs/idle_space/src/main.rs
