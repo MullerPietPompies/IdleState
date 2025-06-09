@@ -1,0 +1,77 @@
+
+/* ==== Base Reset ==== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ==== Body ==== */
+body {
+  background-color: #e6e6e6; /* Pale grey, like old UIs */
+  font-family: 'Courier New', Courier, monospace; /* Retro developer feel */
+  color: #222;
+  line-height: 1.5;
+  padding: 2rem;
+}
+
+/* ==== Headings ==== */
+h1, h2, h3 {
+  font-weight: normal;
+  margin-bottom: 1rem;
+  color: #111;
+}
+
+/* ==== Title (Retro Banner Style) ==== */
+.header {
+  background-color: #c0c0c0; /* Windows 98 grey */
+  border: 2px solid #aaa;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+/* ==== Content Wrapper ==== */
+.container {
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff;
+  padding: 2rem;
+  border: 1px solid #ccc;
+}
+
+/* ==== Links ==== */
+a {
+  color: #0033cc;
+  text-decoration: none;
+  border-bottom: 1px dotted #0033cc;
+}
+a:hover {
+  color: #000088;
+  background-color: #dcdcdc;
+}
+
+/* ==== Code Blocks ==== */
+code, pre {
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  display: block;
+  margin: 1rem 0;
+  font-family: monospace;
+  font-size: 0.9rem;
+  overflow-x: auto;
+}
+
+/* ==== Footer ==== */
+footer {
+  font-size: 0.8rem;
+  text-align: center;
+  color: #666;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px dashed #ccc;
+}
